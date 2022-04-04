@@ -1,4 +1,3 @@
-# cdi-0
 # Hello 
 ### Alumno: Lorenzo, Poggi Janin 
 ### Curso: 4to 1ra Avionica
